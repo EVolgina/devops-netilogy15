@@ -24,7 +24,7 @@ do\
 	then\
 		date >> curl.log \
 	fi\
-done\
+done
 # Ваш скрипт:
  while ((1==1))\
   do\
