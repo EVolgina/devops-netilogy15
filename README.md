@@ -32,7 +32,7 @@ done\
     if (($? != 0))\
     then\
       date > curl.log\
-    else
+    else \
       break\
     fi\
   done\
@@ -40,7 +40,8 @@ done\
   ">> перенаправляет вывод в файл, но не перезаписывает его, а добавляет в конец"
 # Задание 3
 Необходимо написать скрипт, который проверяет доступность трёх IP: 192.168.0.1, 173.194.222.113, 87.250.250.242 по 80 порту и записывает результат в файл log. Проверять доступность необходимо пять раз для каждого узла.
-Ваш скрипт:\
+Ваш скрипт:
+
 ![skript](https://github.com/EVolgina/devops-netilogy15/blob/main/skript.PNG)
 ![log](https://github.com/EVolgina/devops-netilogy15/blob/main/log.PNG)
 
@@ -50,5 +51,6 @@ done\
 Необходимо дописать скрипт из предыдущего задания так, чтобы он выполнялся до тех пор, пока один из узлов не окажется недоступным. Если любой из узлов недоступен — IP этого узла пишется в файл error, скрипт прерывается.
 
 Ваш скрипт:
+
 ![script](https://github.com/EVolgina/devops-netilogy15/blob/main/скрипт2.PNG)
 ![log2](https://github.com/EVolgina/devops-netilogy15/blob/main/log2.PNG)
