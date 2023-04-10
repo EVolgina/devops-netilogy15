@@ -43,6 +43,7 @@ done\
 Ваш скрипт:\
 ![skript](https://github.com/EVolgina/devops-netilogy15/blob/main/skript.PNG)
 ![log](https://github.com/EVolgina/devops-netilogy15/blob/main/log.PNG)
+
 данные лога
 
 # Задание 4
@@ -50,4 +51,4 @@ done\
 
 Ваш скрипт:
 ![script](https://github.com/EVolgina/devops-netilogy15/blob/main/скрипт2.PNG)
-![log2]()
+![log2](https://github.com/EVolgina/devops-netilogy15/blob/main/log2.PNG)
